@@ -1,0 +1,3 @@
+[submodule "bundle/vim-basic-colors"]
+	path = bundle/vim-basic-colors
+	url = https://github.com/zcodes/vim-colors-basic.git
